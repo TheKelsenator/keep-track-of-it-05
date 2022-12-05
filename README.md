@@ -1,4 +1,4 @@
-# keep-track-of-it-05
+# Third-Party APIs Challenge: Work Day Scheduler 
 
 ## Description
 
@@ -28,7 +28,7 @@ Create a simple calendar application that allows a user to save events for each 
 
 ## Screen Shot
 
-
+![alt img](./Assets/Images/)
 
 ## Application Link
 
